@@ -1,0 +1,9 @@
+START
+Initialise variable num = 0
+Initialise variable sum = 0
+WHILE num >= 0
+    sum = sum + num
+    num = INPUT("Enter a number?")
+    Print Sum
+END LOOP
+STOP

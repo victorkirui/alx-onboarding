@@ -1,0 +1,10 @@
+Start
+Declare variables sum and i
+Initialise variable sum = 0
+Initialise variable i = 1
+FOR i = 1 to n (ok)
+    sum = sum + (i*i)
+    i++
+DISPLAY sum
+End loop
+End
